@@ -60,6 +60,7 @@ class TicTacToe
         return comb
       end
     }
+    return false
   end
 
   def full?
